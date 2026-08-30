@@ -1,0 +1,3 @@
+Auto-fix authorized by user (Auto-fix: yes)
+
+This file was added to trigger CI and record that automated fixes are allowed. I will monitor the Actions run, inspect logs, and push minimal quick fixes until a debug APK artifact is produced.
